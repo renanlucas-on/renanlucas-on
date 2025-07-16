@@ -1,5 +1,3 @@
-## Oie! 👋
-
 **Sobre mim:**
 
 - **Bem-Vindo(a) ao mau perfil!** 🎉
