@@ -1,6 +1,6 @@
 **Sobre mim:**
 
-- **Bem-Vindo(a) ao mau perfil!** 🎉
+- **Bem-Vindo(a) ao meu perfil!** 🎉
 - Quero Aprender Programação 💻
 - Tenho um canal no Youtube de programação 🎥
 - **Meu Canal no Youtube:**
