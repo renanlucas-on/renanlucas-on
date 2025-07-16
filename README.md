@@ -4,4 +4,4 @@
 - Quero Aprender Programação 💻
 - Tenho um canal no Youtube de programação 🎥
 - **Meu Canal no Youtube:**
-- 📱![] (https://www.youtube.com/@CodeRenan)
+- 📱 (https://www.youtube.com/@CodeRenan)
